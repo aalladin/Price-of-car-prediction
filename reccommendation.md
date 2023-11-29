@@ -1,4 +1,4 @@
-Key Insights The features that strongly influence used car prices are those that have the most significant values in our model. Basically, the bigger the value, the more impact it has on the price of a used car.
+Key Insights: The features that strongly influence used car prices are those that have the most significant values in our model. Basically, the bigger the value, the more impact it has on the price of a used car.
 
 However, there's a bit of complexity when considering 'manufacturer' and 'model'. Since we've used a special method to convert these categories into numbers, the impact they have on price is tied to the average price of cars in each category. So, a change in these values actually reflects changes in these average prices.
 
